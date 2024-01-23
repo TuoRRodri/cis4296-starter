@@ -1,0 +1,6 @@
+Though i should've have put this in the readme file i think
+it would be funny to put it in this file. I kind of don't care but I do
+I promise this is not personal, I am just putting it out there.
+This is so i can create, add, stage, commit, and push my local
+changes, so I can prove to the professor that I know about this
+part of the subject.
